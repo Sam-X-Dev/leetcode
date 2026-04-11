@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
