@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
