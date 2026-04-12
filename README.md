@@ -42,6 +42,7 @@
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
