@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sorting
@@ -80,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
