@@ -5,18 +5,18 @@ using namespace std;
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int currentSum = nums[0];
+        int prefixSum = 0;
+        int minPrefix = 0;
+        int answer = nums[0];
 
-        int bestSum = nums[0];
+        for (int i = 0; i < nums.size(); i++) {
+            prefixSum += nums[i];
 
-        for (int i = 1; i < nums.size(); i++) {
-            int number = nums[i];
+            answer = max(answer, prefixSum - minPrefix);
 
-            currentSum = max(number, currentSum + number);
-
-            bestSum = max(bestSum, currentSum);
+            minPrefix = min(minPrefix, prefixSum);
         }
 
-        return bestSum;
+        return answer;
     }
 };
