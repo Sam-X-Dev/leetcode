@@ -58,6 +58,7 @@
 | [0050-powx-n](https://github.com/Sam-X-Dev/leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/Sam-X-Dev/leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -98,4 +99,8 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Sam-X-Dev/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
