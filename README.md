@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
