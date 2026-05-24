@@ -13,6 +13,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Sam-X-Dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -39,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
@@ -57,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
