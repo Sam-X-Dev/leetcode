@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Sam-X-Dev/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Sam-X-Dev/leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
