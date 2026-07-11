@@ -14,6 +14,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Sam-X-Dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Sam-X-Dev/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sam-X-Dev/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sam-X-Dev/leetcode/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Sam-X-Dev/leetcode/tree/master/0319-bulb-switcher) |
