@@ -28,6 +28,7 @@
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Sam-X-Dev/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Sam-X-Dev/leetcode/tree/master/0319-bulb-switcher) |
 | [0372-super-pow](https://github.com/Sam-X-Dev/leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
@@ -160,4 +162,12 @@
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
