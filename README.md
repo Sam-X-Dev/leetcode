@@ -39,6 +39,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -99,6 +100,7 @@
 | [0509-fibonacci-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -166,8 +168,10 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
