@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sam-X-Dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sam-X-Dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
