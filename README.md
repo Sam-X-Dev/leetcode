@@ -33,6 +33,7 @@
 | [0260-single-number-iii](https://github.com/Sam-X-Dev/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -55,6 +56,7 @@
 | [0383-ransom-note](https://github.com/Sam-X-Dev/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -155,6 +157,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Stack
 |  |
