@@ -42,6 +42,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Sam-X-Dev/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -172,6 +173,7 @@
 | [0525-contiguous-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Sam-X-Dev/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 ## Stack
 |  |
 | ------- |
