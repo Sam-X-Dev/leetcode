@@ -9,6 +9,7 @@
 | [0344-reverse-string](https://github.com/Sam-X-Dev/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/Sam-X-Dev/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -68,6 +70,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
