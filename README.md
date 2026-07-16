@@ -20,6 +20,7 @@
 | [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
@@ -94,6 +96,7 @@
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sam-X-Dev/leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3583-count-special-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/3583-count-special-triplets) |
 | [3866-first-unique-even-element](https://github.com/Sam-X-Dev/leetcode/tree/master/3866-first-unique-even-element) |
 ## Math
@@ -190,5 +193,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
