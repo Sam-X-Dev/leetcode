@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sam-X-Dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sam-X-Dev/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
 ## Brainteaser
