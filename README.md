@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Sam-X-Dev/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sam-X-Dev/leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
