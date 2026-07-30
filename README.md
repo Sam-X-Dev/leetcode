@@ -147,6 +147,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sam-X-Dev/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sam-X-Dev/leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Sam-X-Dev/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Sam-X-Dev/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,4 +218,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sam-X-Dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sam-X-Dev/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
