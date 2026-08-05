@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
