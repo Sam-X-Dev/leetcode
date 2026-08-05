@@ -77,6 +77,7 @@
 | [0409-longest-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam-X-Dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -241,4 +243,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
