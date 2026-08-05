@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sam-X-Dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -199,6 +200,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sam-X-Dev/leetcode/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
