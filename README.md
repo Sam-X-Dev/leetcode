@@ -41,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sam-X-Dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sam-X-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sam-X-Dev/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sam-X-Dev/leetcode/tree/master/0204-count-primes) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Sam-X-Dev/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sam-X-Dev/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sam-X-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sam-X-Dev/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0189-rotate-array) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sam-X-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
