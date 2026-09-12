@@ -4,13 +4,9 @@ public:
        stack<int> st;
 
         for (auto s : tokens) {
-
-            // Number → push into stack
             if (s != "+" && s != "-" && s != "*" && s != "/") {
                 st.push(stoi(s));
             }
-
-            // Operator → take two operands
             else {
                 int val1 = st.top();
                 st.pop();
