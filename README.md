@@ -27,6 +27,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-X-Dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Sam-X-Dev/leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Sam-X-Dev/leetcode/tree/master/1598-crawler-log-folder) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
@@ -55,6 +56,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Sam-X-Dev/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-X-Dev/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sam-X-Dev/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1598-crawler-log-folder](https://github.com/Sam-X-Dev/leetcode/tree/master/1598-crawler-log-folder) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sam-X-Dev/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -210,6 +212,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-X-Dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Sam-X-Dev/leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Sam-X-Dev/leetcode/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
