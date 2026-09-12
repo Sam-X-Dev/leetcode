@@ -29,6 +29,7 @@
 | [1544-make-the-string-great](https://github.com/Sam-X-Dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Sam-X-Dev/leetcode/tree/master/1598-crawler-log-folder) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sam-X-Dev/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Sam-X-Dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Sam-X-Dev/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Sam-X-Dev/leetcode/tree/master/0867-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/Sam-X-Dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [1544-make-the-string-great](https://github.com/Sam-X-Dev/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Sam-X-Dev/leetcode/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Sam-X-Dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
