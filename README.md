@@ -217,6 +217,7 @@
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sam-X-Dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Sam-X-Dev/leetcode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-X-Dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Sam-X-Dev/leetcode/tree/master/1544-make-the-string-great) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sam-X-Dev/leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Sam-X-Dev/leetcode/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
@@ -264,8 +266,13 @@
 | ------- |
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Sam-X-Dev/leetcode/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sam-X-Dev/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
