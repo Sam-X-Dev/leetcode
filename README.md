@@ -38,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/Sam-X-Dev/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sam-X-Dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-X-Dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sam-X-Dev/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sam-X-Dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sam-X-Dev/leetcode/tree/master/0136-single-number) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-X-Dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-X-Dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sam-X-Dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sam-X-Dev/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sam-X-Dev/leetcode/tree/master/0496-next-greater-element-i) |
@@ -227,6 +229,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-X-Dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sam-X-Dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Sam-X-Dev/leetcode/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Sam-X-Dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-X-Dev/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
