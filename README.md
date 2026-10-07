@@ -324,4 +324,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-X-Dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sam-X-Dev/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
