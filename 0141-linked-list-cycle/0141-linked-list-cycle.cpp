@@ -13,11 +13,11 @@ public:
         ListNode *f = head;
         
         while (f != NULL && f->next != NULL) {
-            s = s->next;       // Moves 1 step
-            f = f->next->next; // Moves 2 steps
+            s = s->next;       
+            f = f->next->next; 
             
             if (s == f) {
-                return true;   // Fast pointer caught up to slow pointer (cycle detected)
+                return true;   
             }
         }
         
