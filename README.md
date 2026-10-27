@@ -70,6 +70,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/Sam-X-Dev/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sam-X-Dev/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sam-X-Dev/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sam-X-Dev/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sam-X-Dev/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Sam-X-Dev/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -121,6 +122,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-X-Dev/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sam-X-Dev/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-X-Dev/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sam-X-Dev/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Sam-X-Dev/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -214,6 +216,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sam-X-Dev/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sam-X-Dev/leetcode/tree/master/0409-longest-palindrome) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sam-X-Dev/leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-X-Dev/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Prefix Sum
 |  |
